@@ -1,0 +1,2 @@
+# Minikiosk
+Empowering Educational Administration
